@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NationalParks>
+  <NationalPark NearestAirport="PHX" Rating="5">
+    <Name>Grand Canyon</Name>
+    <Phone>123-456-7890</Phone>
+    <Phone>987-654-3210</Phone>
+    <Address>
+      <Number>123</Number>
+      <Street>Main St</Street>
+      <City>Flagstaff</City>
+      <State>AZ</State>
+      <Zip>86001</Zip>
+    </Address>
+  </NationalPark>
+</NationalParks>
