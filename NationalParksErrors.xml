@@ -1,6 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
-<NationalParks>
-  <NationalPark>
-    <Name>Bad Park</Name>
+
+<!-- WRONG ROOT -->
+<NationalPark>
+
+  <!-- Missing Phone, Missing NearestAirport -->
+  <NationalPark Rating="4.9">
+    <Name>Grand Canyon</Name>
+    <Address>
+      <Number>8</Number>
+      <Street>S Entrance Road</Street>
+      <City>Grand Canyon</City>
+      <State>AZ</State>
+      <Zip>86023</Zip>
+    </Address>
   </NationalPark>
-</NationalParks>
+
+  <!-- Duplicate Name + missing Phone -->
+  <NationalPark>
+    <Name>Yosemite</Name>
+    <Name>Yosemite National Park</Name>
+    <Address NearestAirport="Fresno">
+      <Number>9035</Number>
+      <Street>Village Drive</Street>
+      <City>Yosemite Valley</City>
+      <State>CA</State>
+      <Zip>95389</Zip>
+    </Address>
+  </NationalPark>
+
+  <!-- Missing Address entirely -->
+  <NationalPark Rating="4.8">
+    <Name>Yellowstone</Name>
+    <Phone>307-344-7381</Phone>
+  </NationalPark>
+
+</NationalPark>
