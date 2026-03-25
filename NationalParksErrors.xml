@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <NationalPark>
-  <NationalPark Rating="4.9">
+  <NationalPark NearestAirport="FLG" Rating="5">
     <Name>Grand Canyon National Park</Name>
     <Phone>928-638-7888</Phone>
     <Phone>928-638-7496</Phone>
-    <Address NearestAirport="Flagstaff">
+    <Address>
       <Number>8</Number>
       <Street>S Entrance Road</Street>
       <City>Grand Canyon</City>
@@ -13,11 +13,11 @@
     </Address>
   </NationalPark>
 
-  <NationalPark Rating="4.7">
+  <NationalPark NearestAirport="FAI" Rating="5">
     <Name>Denali National Park and Preserve</Name>
     <Phone>907-683-9532</Phone>
     <Phone>907-683-2294</Phone>
-    <Address NearestAirport="Fairbanks">
+    <Address>
       <Number>PO Box 9</Number>
       <Street>Denali Park Road</Street>
       <City>Denali Park</City>
@@ -39,10 +39,10 @@
     </Address>
   </NationalPark>
 
-  <NationalPark Rating="4.6">
+  <NationalPark NearestAirport="LAS" Rating="5">
     <Name>Death Valley National Park</Name>
     <Phone>760-786-3200</Phone>
-    <Address NearestAirport="Las Vegas">
+    <Address>
       <Number>PO Box 579</Number>
       <Street>Death Valley</Street>
       <City>Death Valley</City>
@@ -51,10 +51,11 @@
     </Address>
   </NationalPark>
 
-  <NationalPark>
+  <NationalPark NearestAirport="PSP">
     <Name>Joshua Tree National Park</Name>
     <Phone>760-367-5500</Phone>
-    <Address NearestAirport="Palm Springs">
+    <Phone>760-367-5555</Phone>
+    <Address>
       <Number>74485</Number>
       <Street>National Park Drive</Street>
       <City>Twentynine Palms</City>
@@ -63,36 +64,35 @@
     </Address>
   </NationalPark>
 
-  <NationalPark Rating="4.8">
+  <NationalPark NearestAirport="FAT" Rating="5">
     <Name>Yosemite</Name>
     <Name>Yosemite National Park</Name>
     <Phone>209-372-0200</Phone>
-    <Address NearestAirport="Fresno">
-      <Number>9035</Number>
-      <Street>Village Drive</Street>
-      <City>Yosemite Valley</City>
+    <Address>
+      <Number>PO Box 577</Number>
+      <Street>Yosemite National Park</Street>
+      <City>Yosemite</City>
       <State>CA</State>
       <Zip>95389</Zip>
     </Address>
   </NationalPark>
 
-  <NationalPark Rating="4.8">
+  <NationalPark NearestAirport="WYS" Rating="5">
     <Name>Yellowstone National Park</Name>
     <Phone>307-344-7381</Phone>
     <Phone>307-344-2117</Phone>
-    <Address NearestAirport="Bozeman">
-      <Number>2</Number>
-      <Street>Officer Row</Street>
+    <Address>
+      <Number>PO Box 168</Number>
+      <Street>Yellowstone National Park</Street>
       <City>Yellowstone National Park</City>
       <State>WY</State>
-      <Zip>82190</Zip>
+      <Zip>82190-0168</Zip>
     </Address>
   </NationalPark>
 
-  <NationalPark>
+  <NationalPark NearestAirport="CNY">
     <Name>Arches National Park</Name>
-    <Phone>435-719-2299</Phone>
-    <Address NearestAirport="Moab">
+    <Address>
       <Number>PO Box 907</Number>
       <Street>Arches National Park</Street>
       <City>Moab</City>
@@ -101,10 +101,10 @@
     </Address>
   </NationalPark>
 
-  <NationalPark>
+  <NationalPark NearestAirport="FLG">
     <Name>Petrified Forest National Park</Name>
     <Phone>928-524-6228</Phone>
-    <Address NearestAirport="Holbrook">
+    <Address>
       <Number>PO Box 2217</Number>
       <Street>Petrified Forest National Park</Street>
       <City>Petrified Forest</City>
@@ -113,10 +113,10 @@
     </Address>
   </NationalPark>
 
-  <NationalPark Rating="4.9">
+  <NationalPark NearestAirport="SGU" Rating="5">
     <Name>Zion National Park</Name>
     <Phone>435-772-3256</Phone>
-    <Address NearestAirport="St George">
+    <Address>
       <Number>1</Number>
       <Street>Zion Park Blvd</Street>
       <City>Springdale</City>
@@ -125,14 +125,15 @@
     </Address>
   </NationalPark>
 
-  <NationalPark>
+  <NationalPark NearestAirport="ALS">
     <Name>Great Sand Dunes National Park and Preserve</Name>
     <Phone>719-378-6395</Phone>
     <Phone>719-378-6341</Phone>
-    <Address NearestAirport="Alamosa">
+    <Address>
       <Number>11999</Number>
       <Street>Highway 150</Street>
       <City>Mosca</City>
       <State>CO</State>
       <Zip>81146</Zip>
-    <!-- Missing closing tag for Address on purpose -->
+  </NationalPark>
+</NationalPark>
