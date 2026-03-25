@@ -65,13 +65,13 @@
     </Address>
   </NationalPark>
 
-  <NationalPark Rating="5">
+  <NationalPark>
     <Name>Yosemite</Name>
     <Phone>209-372-0200</Phone>
     <Address NearestAirport="Fresno">
-      <Number>PO Box 577</Number>
-      <Street>Yosemite National Park</Street>
-      <City>Yosemite</City>
+      <Number>9035</Number>
+      <Street>Village Drive</Street>
+      <City>Yosemite Valley</City>
       <State>CA</State>
       <Zip>95389</Zip>
     </Address>
@@ -80,13 +80,13 @@
   <NationalPark Rating="4.8">
     <Name>Yellowstone</Name>
     <Phone>307-344-7381</Phone>
-    <Phone>307-344-2117</Phone>
+    <Phone>307-344-7311</Phone>
     <Address NearestAirport="Bozeman">
-      <Number>PO Box 168</Number>
-      <Street>Yellowstone National Park</Street>
+      <Number>2</Number>
+      <Street>Officer Row</Street>
       <City>Yellowstone National Park</City>
       <State>WY</State>
-      <Zip>82190-0168</Zip>
+      <Zip>82190</Zip>
     </Address>
   </NationalPark>
 
