@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<NationalParks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="NationalParks.xsd">
-
+<NationalParks>
   <NationalPark Rating="4.9">
     <Name>Grand Canyon</Name>
     <Phone>928-638-7496</Phone>
@@ -14,7 +12,7 @@
       <Zip>86023</Zip>
     </Address>
   </NationalPark>
-  <NationalPark Rating="4.9">
+  <NationalPark Rating="4.8">
     <Name>Denali National Park and Preserve</Name>
     <Phone>907-683-9532</Phone>
     <Phone>907-683-2294</Phone>
