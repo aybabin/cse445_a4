@@ -5,7 +5,7 @@
     <Phone>928-638-7496</Phone>
     <Phone>888-297-2757</Phone>
     <Phone>866-499-2574</Phone>
-    <Address>
+    <Address NearestAirport="FlagStaff">
       <Number>8</Number>
       <Street>S Entrance Road</Street>
       <City>Grand Canyon</City>
@@ -14,11 +14,11 @@
     </Address>
   </NationalPark>
 
-  <NationalPark NearestAirport="FAI" Rating="5">
-    <Name>Denali National Park and Preserve</Name>
+  <NationalPark Rating="4.8">
+    <Name>Denali</Name>
     <Phone>907-683-9532</Phone>
     <Phone>907-683-2294</Phone>
-    <Address>
+    <Address NearestAirport="Fairbanks">
       <Number>PO Box 9</Number>
       <Street>Denali Park Road</Street>
       <City>Denali Park</City>
@@ -28,10 +28,10 @@
   </NationalPark>
 
   <NationalPark>
-    <Name>Olympic National Park</Name>
+    <Name>Olympic</Name>
     <Phone>360-565-3130</Phone>
     <Phone>360-565-3100</Phone>
-    <Address>
+    <Address NearestAirport="Port Angeles">
       <Number>600</Number>
       <Street>E. Park Avenue</Street>
       <City>Port Angeles</City>
@@ -40,10 +40,10 @@
     </Address>
   </NationalPark>
 
-  <NationalPark NearestAirport="LAS" Rating="5">
-    <Name>Death Valley National Park</Name>
+  <NationalPark Rating="5">
+    <Name>Death Valley</Name>
     <Phone>760-786-3200</Phone>
-    <Address>
+    <Address NearestAirport="Las Vegas">
       <Number>PO Box 579</Number>
       <Street>Death Valley</Street>
       <City>Death Valley</City>
@@ -52,8 +52,8 @@
     </Address>
   </NationalPark>
 
-  <NationalPark NearestAirport="PSP">
-    <Name>Joshua Tree National Park</Name>
+  <NationalPark>
+    <Name>Joshua Tree</Name>
     <Phone>760-367-5500</Phone>
     <Phone>760-367-5555</Phone>
     <Address>
@@ -65,11 +65,11 @@
     </Address>
   </NationalPark>
 
-  <NationalPark NearestAirport="FAT" Rating="5">
+  <NationalPark Rating="5">
     <Name>Yosemite</Name>
     <Name>Yosemite National Park</Name>
     <Phone>209-372-0200</Phone>
-    <Address>
+    <Address NearestAirport="Fresno">
       <Number>PO Box 577</Number>
       <Street>Yosemite National Park</Street>
       <City>Yosemite</City>
@@ -78,11 +78,11 @@
     </Address>
   </NationalPark>
 
-  <NationalPark NearestAirport="WYS" Rating="5">
-    <Name>Yellowstone National Park</Name>
+  <NationalPark Rating="4.8">
+    <Name>Yellowstone</Name>
     <Phone>307-344-7381</Phone>
     <Phone>307-344-2117</Phone>
-    <Address>
+    <Address NearestAirport="Bozeman">
       <Number>PO Box 168</Number>
       <Street>Yellowstone National Park</Street>
       <City>Yellowstone National Park</City>
@@ -91,9 +91,9 @@
     </Address>
   </NationalPark>
 
-  <NationalPark NearestAirport="CNY">
-    <Name>Arches National Park</Name>
-    <Address>
+  <NationalPark>
+    <Name>Arches</Name>
+    <Address NearestAirport="Moab">
       <Number>PO Box 907</Number>
       <Street>Arches National Park</Street>
       <City>Moab</City>
@@ -102,10 +102,10 @@
     </Address>
   </NationalPark>
 
-  <NationalPark NearestAirport="FLG">
-    <Name>Petrified Forest National Park</Name>
+  <NationalPark>
+    <Name>Petrified Forest</Name>
     <Phone>928-524-6228</Phone>
-    <Address>
+    <Address NearestAirport="Holbrook">
       <Number>PO Box 2217</Number>
       <Street>Petrified Forest National Park</Street>
       <City>Petrified Forest</City>
@@ -114,10 +114,10 @@
     </Address>
   </NationalPark>
 
-  <NationalPark NearestAirport="SGU" Rating="5">
-    <Name>Zion National Park</Name>
+  <NationalPark Rating="5">
+    <Name>Zion</Name>
     <Phone>435-772-3256</Phone>
-    <Address>
+    <Address NearestAirport="St George">
       <Number>1</Number>
       <Street>Zion Park Blvd</Street>
       <City>Springdale</City>
@@ -126,15 +126,28 @@
     </Address>
   </NationalPark>
 
-  <NationalPark NearestAirport="ALS">
-    <Name>Great Sand Dunes National Park and Preserve</Name>
+  <NationalPark>
+    <Name>Great Sand Dunes</Name>
     <Phone>719-378-6395</Phone>
     <Phone>719-378-6341</Phone>
-    <Address>
+    <Address NearestAirport="Alamosa">
       <Number>11999</Number>
       <Street>Highway 150</Street>
       <City>Mosca</City>
       <State>CO</State>
       <Zip>81146</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark>
+    <Name>Sequoia</Name>
+    <Phone>559-565-3341</Phone>
+    <Phone>559-565-3751</Phone>
+    <Address NearestAirport="Fresno">
+      <Number>47050</Number>
+      <Street>Generals Highway</Street>
+      <City>Three Rivers</City>
+      <State>CA</State>
+      <Zip>93271</Zip>
   </NationalPark>
 </NationalPark>
