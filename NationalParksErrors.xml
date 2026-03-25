@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <NationalPark>
-  <NationalPark NearestAirport="FLG" Rating="5">
-    <Name>Grand Canyon National Park</Name>
-    <Phone>928-638-7888</Phone>
+  <NationalPark Rating="4.9">
+    <Name>Grand Canyon</Name>
     <Phone>928-638-7496</Phone>
+    <Phone>888-297-2757</Phone>
+    <Phone>866-499-2574</Phone>
     <Address>
       <Number>8</Number>
       <Street>S Entrance Road</Street>
