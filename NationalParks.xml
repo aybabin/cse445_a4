@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <NationalParks>
-  <NationalPark NearestAirport="PHX" Rating="5">
-    <Name>Grand Canyon</Name>
-    <Phone>123-456-7890</Phone>
-    <Phone>987-654-3210</Phone>
-    <Address>
-      <Number>123</Number>
-      <Street>Main St</Street>
-      <City>Flagstaff</City>
-      <State>AZ</State>
-      <Zip>86001</Zip>
-    </Address>
-  </NationalPark>
+	<NationalPark NearestAirport="TUS" Rating="5">
+		<Name>Chiricahua National Monument</Name>
+		<Phone>520-824-3560</Phone>
+		<Phone>520-555-1234</Phone>
+		<Address>
+			<Number>12856</Number>
+			<Street>East Rhyolite Creek Road</Street>
+			<City>Willcox</City>
+			<State>AZ</State>
+			<Zip>85643</Zip>
+		</Address>
+	</NationalPark>
 </NationalParks>
