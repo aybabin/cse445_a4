@@ -43,7 +43,7 @@
   <Phone>907-683-9532</Phone>
   <Phone>907-683-2294</Phone>
   <Address NearestAirport="Fairbanks">
-    <Number>Mile 237</Number>
+    <Number>237</Number>
     <Street>Highway 3</Street>
     <City>Denali Park</City>
     <State>AK</State>
@@ -68,7 +68,7 @@
   <Name>Death Valley</Name>
   <Phone>760-786-3200</Phone>
   <Address NearestAirport="Las Vegas">
-    <Number>Furnace Creek Visitor Center</Number>
+    <Number>1</Number>
     <Street>California Highway 190</Street>
     <City>Death Valley</City>
     <State>CA</State>
@@ -93,7 +93,7 @@
   <Name>Arches</Name>
   <Phone>435-719-2299</Phone>
   <Address NearestAirport="Moab">
-    <Number>Entrance Station</Number>
+    <Number>1</Number>
     <Street>Park Headquarters</Street>
     <City>Arches National Park</City>
     <State>UT</State>
